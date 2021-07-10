@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## CodePuridhal
+No.01, Street Name,
+Area Name,
+City, State - 600001
 
 You can use the [editor on GitHub](https://github.com/CodePuridhal/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

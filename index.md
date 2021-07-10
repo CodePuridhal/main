@@ -1,10 +1,19 @@
 ## CodePuridhal<br/>
-<p align=right>CodePuridhal@gmail.com</p>
+<div align="right">CodePuridhal@gmail.com</div>
 <div align="right">Phone: +91 1234567890 </div>
 <p align=right>City - 00001 </p>
 
 
 #### Academic Credentials
+<Table>
+  <tr>
+    <td> college Name of india, Bsc </td>
+    <td> 2023 </td>
+    <td> 90 </td>
+  </tr>
+</Table>
+
+
 | College Name          | 2021     |                 80%           |
 | --------------------- | -------------------------- |-------------------------- |
 | School Name, XII     | 2018  |90%         |

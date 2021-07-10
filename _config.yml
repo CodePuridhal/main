@@ -3,8 +3,17 @@ name: CodePuridhal
 # title: null
 project_title: metadata-example
 # Name of website
-title: CodePuridhal Profile
+title: CodePuridhal
+subtitle: Resume
 
 # Your name to show in the footer
 author: Some Person
  
+tags:	[Resume, Personal]
+
+thumbnail-img: ""
+
+#share-title
+share-description:	A brief description of the page. If not provided, then subtitle will be used
+#share-img:
+social-share: true

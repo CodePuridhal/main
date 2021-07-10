@@ -1,8 +1,13 @@
 ## CodePuridhal<br/>
 <div align="right">CodePuridhal@gmail.com</div>
 <div align="right">Phone: +91 1234567890 </div>
-<p align=right>City - 00001 </p>
+<p align=right>City - 600001 </p>
 
+
+### Summary
+Programming Enthusiast with hands on experience in Robotic Process Automation, Azure, Android and extensive experience in .Net Technologies and a Blockchain enthusiast. Well versed in managing all aspects of the software development life cycle from concept, development to implementation and delivered various projects for US based clients.
+
+<br/>  
 
 ### Academic Credentials
  

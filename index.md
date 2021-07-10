@@ -4,27 +4,20 @@
 <p align=right>City - 00001 </p>
 
 
-#### Academic Credentials
-<Table>
-  <tr>
-    <td> college Name of india, Bsc </td>
-    <td> 2023 </td>
-    <td> 90 </td>
-  </tr>
-</Table>
-
-
-| College Name          | 2021     |                 80%           |
+### Academic Credentials
+ 
+| Institution Name         | Year     |                GPA        |
 | --------------------- | -------------------------- |-------------------------- |
+| University Name, B.sc, | 2021  |90%         |
 | School Name, XII     | 2018  |90%         |
 | School name, X       | 2015 | 95%|
 
   
-----
+ 
+ <br/>  
 
 
-
-#### Technical Skills
+### Technical Skills
  
 Languages         : C, C++, Python, Java, C#,                                                            <br/>
 Frameworks        : .Net, Java                                                                              <br/>
@@ -34,9 +27,9 @@ Cloud             : AWS
 Mobile            : Android
 Web Technologies  : HTML, CSS, Javascript, XML, Json, ReactJs, AngularJs
 
+ <br/>  
 
-
-#### Projects/Work Experience                                                                          <br/>
+### Projects/Work Experience                                                                          <br/>  
 Project Senior Analyst, Cipro (Apr 2019 - Till Date)
 - Worked with product managers in understanding the business roadmap and help develop compelling capabilities that helps them succeed in their business goals 
 - Acted as a technical and change advocate 

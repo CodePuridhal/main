@@ -1,7 +1,50 @@
-## CodePuridhal
-No.01, Street Name,
-Area Name,
-City, State - 600001
+## CodePuridhal<br/>
+<p align=right>CodePuridhal@gmail.com</p>
+<div align="right">Phone: +91 1234567890 </div>
+<p align=right>City - 00001 </p>
+
+
+#### Academic Credentials
+| College Name          | 2021     |                 80%           |
+| --------------------- | -------------------------- |-------------------------- |
+| School Name, XII     | 2018  |90%         |
+| School name, X       | 2015 | 95%|
+
+  
+----
+
+
+
+#### Technical Skills
+ 
+Languages         : C, C++, Python, Java, C#,                                                            <br/>
+Frameworks        : .Net, Java                                                                              <br/>
+Operating System  : Windows                                                                                 <br/>
+Databases         : MySql, Sql Server, MongoDB                                                              <br/>
+Cloud             : AWS
+Mobile            : Android
+Web Technologies  : HTML, CSS, Javascript, XML, Json, ReactJs, AngularJs
+
+
+
+#### Projects/Work Experience                                                                          <br/>
+Project Senior Analyst, Cipro (Apr 2019 - Till Date)
+- Worked with product managers in understanding the business roadmap and help develop compelling capabilities that helps them succeed in their business goals 
+- Acted as a technical and change advocate 
+– promoting use of technology and
+- Assessing landscape for continuous improvement- 
+- Took ownership of delivery and manage multi-release projects in AGILE
+- Architecting solutions, developing , and launching services Experience in managing engineering teams
+
+
+Project Analyst, TCCS (Jan 2016 - Mar 2019)
+- Worked with product managers in understanding the business roadmap and help develop compelling capabilities that helps them succeed in their business goals 
+- Acted as a technical and change advocate 
+– promoting use of technology and
+- Assessing landscape for continuous improvement- 
+
+
+
 
 You can use the [editor on GitHub](https://github.com/CodePuridhal/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

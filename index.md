@@ -1,4 +1,4 @@
-Coming Soon: Workshop on How to create such resumes for yourself and host in Github, Checkout the telegram group for updates -  <a href="https://t.me/codepuridhal" style="color:#ef476f;" >CodePuridhal Telegram Group</a>
+**Coming Soon:** Workshop on How to create such resumes for yourself and host in Github, Checkout the telegram group for updates -  <a href="https://t.me/codepuridhal" style="color:#ef476f;" >CodePuridhal Telegram Group</a>
 
 <div align="right">CodePuridhal@gmail.com</div>
 <div align="right">Phone: +91 1234567890 </div>

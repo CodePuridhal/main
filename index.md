@@ -1,4 +1,4 @@
-To create such resumes for yourself, checkout the telegram group -  <a href="https://t.me/codepuridhal">CodePuridhal Telegram Group</a>
+To create such resumes for yourself, checkout the telegram group -  <a href="https://t.me/codepuridhal" style="color:#ef476f;font-size: 100px;" >CodePuridhal Telegram Group</a>
 
 <div align="right">CodePuridhal@gmail.com</div>
 <div align="right">Phone: +91 1234567890 </div>

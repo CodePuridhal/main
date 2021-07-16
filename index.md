@@ -1,3 +1,5 @@
+To create such resumes for yourself, checkout the telegram group -  https://t.me/codepuridhal
+
 <div align="right">CodePuridhal@gmail.com</div>
 <div align="right">Phone: +91 1234567890 </div>
 <p align=right>City - 600001 </p>
